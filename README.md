@@ -2,7 +2,7 @@
 
 🎯 **DOMINATE THE GAME. TAKE CONTROL.**
 
-Welcome to **ARC RAIDERS** — advanced gaming software featuring powerful tools, customizable settings, and a modern interface.
+Welcome to **VYPR** — advanced gaming software featuring powerful tools, customizable settings, and a modern interface.
 
 ## 🔥 FEATURES
 
